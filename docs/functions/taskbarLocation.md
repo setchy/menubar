@@ -8,7 +8,7 @@
 
 > **taskbarLocation**(`tray`): `TaskbarLocation`
 
-Defined in: [util/getWindowPosition.ts:32](https://github.com/gitify-app/electron-menubar/blob/fa877ef2b37cca2481ee476057157537921d91a9/src/util/getWindowPosition.ts#L32)
+Defined in: [util/getWindowPosition.ts:32](https://github.com/gitify-app/electron-menubar/blob/4943b5e9ae3cdbe151beeef5dc680cb7a62bd3fc/src/util/getWindowPosition.ts#L32)
 
 Determine taskbard location: "top", "bottom", "left" or "right".
 
